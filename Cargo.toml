@@ -2,4 +2,6 @@
 members = [
     "california-reservoir", 
     "ecco",
-    "cli"]
+    "cli",
+    "water-california-wasm-lib"
+    ]
